@@ -1,0 +1,15 @@
+artifact_uri: /home/vidhya/mlflow/mlruns/628254849108004731/4f618ac03e7a49d2971b5f153bdb864d/artifacts
+end_time: 1712653723772
+entry_point_name: ''
+experiment_id: '628254849108004731'
+lifecycle_stage: active
+run_id: 4f618ac03e7a49d2971b5f153bdb864d
+run_name: treasured-hare-585
+run_uuid: 4f618ac03e7a49d2971b5f153bdb864d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712653722305
+status: 3
+tags: []
+user_id: vidhya

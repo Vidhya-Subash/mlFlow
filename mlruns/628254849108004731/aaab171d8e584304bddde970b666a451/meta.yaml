@@ -1,0 +1,15 @@
+artifact_uri: /home/vidhya/mlflow/mlruns/628254849108004731/aaab171d8e584304bddde970b666a451/artifacts
+end_time: 1712653718696
+entry_point_name: ''
+experiment_id: '628254849108004731'
+lifecycle_stage: active
+run_id: aaab171d8e584304bddde970b666a451
+run_name: overjoyed-midge-538
+run_uuid: aaab171d8e584304bddde970b666a451
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712653716433
+status: 3
+tags: []
+user_id: vidhya
